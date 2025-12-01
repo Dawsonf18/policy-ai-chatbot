@@ -1,0 +1,25 @@
+# environment variables
+.env
+
+# virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# ide stuff
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# os files
+.DS_Store

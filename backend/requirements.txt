@@ -1,0 +1,24 @@
+# core api stuff
+fastapi
+uvicorn[standard]
+
+# azure services
+openai
+azure-search-documents
+
+# langchain for document processing
+langchain
+langchain-community
+
+# document loaders
+pypdf
+unstructured
+
+# utilities
+python-dotenv
+pydantic
+pydantic-settings
+tiktoken
+
+# nice terminal output
+rich
